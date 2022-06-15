@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I'm **NangStywn/NangStywn**
+I'm **Nanang Setyawan**
 
 <h3>Currently learning:</h3>
 <p>
