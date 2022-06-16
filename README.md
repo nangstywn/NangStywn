@@ -4,7 +4,7 @@
 I'm **Nanang Setyawan**
 
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-user-contribution.svg?palette=github-dark)
+![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-user-contribution.svg#gh-dark-mode-only)
 
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn&layout=compact&theme=radical&hide_border=true" /></a> |
