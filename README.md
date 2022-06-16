@@ -6,6 +6,7 @@ I'm **Nanang Setyawan**
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Currently learning:</h3>
 <p>
