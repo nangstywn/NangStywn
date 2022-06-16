@@ -3,6 +3,8 @@
 
 I'm **Nanang Setyawan**
 
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
 <h3>Currently learning:</h3>
 <p>
 <!--   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
