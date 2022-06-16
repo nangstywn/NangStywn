@@ -4,6 +4,7 @@
 I'm **Nanang Setyawan**
 
 ![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h3>Currently learning:</h3>
 <p>
