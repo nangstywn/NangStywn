@@ -3,7 +3,7 @@
 
 I'm **Nanang Setyawan**
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-contribution.svg)
 
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn&layout=compact&theme=radical&hide_border=true" /></a> |
