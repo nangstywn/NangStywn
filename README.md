@@ -3,7 +3,6 @@
 
 I'm **Nanang Setyawan**
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-user-contribution.svg#gh-dark-mode-only)
 
 
