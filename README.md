@@ -3,8 +3,9 @@
 
 I'm **Nanang Setyawan**
 
-![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-contribution-grid-snake.svg)
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NangStywn)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Currently learning:</h3>
 <p>
