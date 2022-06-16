@@ -5,8 +5,8 @@ I'm **Nanang Setyawan**
 
 <!-- ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg) -->
 
-|<a href="https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"</a>|
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn&theme=radical&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)"</a>|
+|<a href="https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&theme=radical)"</a>|
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn&theme=radical&layout=compact&card_width=300)"</a>|
 | ------------- | ------------- |
 
 
