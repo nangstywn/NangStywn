@@ -3,7 +3,7 @@
 
 I'm **Nanang Setyawan**
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-contribution-grid-snake.svg)
 
 <h3>Currently learning:</h3>
 <p>
