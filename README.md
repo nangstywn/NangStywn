@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 
-I'm **Nanang Setyawan**
+Hi. I'm **Nanang Setyawan** I'm currently focusing on becoming a **backend web developer**. I really like to learn new things, especially those related to technology and programming.
 
 <!-- ![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-user-contribution.svg) -->
 <a href="#"> <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg"/>
