@@ -5,12 +5,9 @@ I'm **Nanang Setyawan**
 
 <!-- ![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-user-contribution.svg) -->
 <a href="#"> <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg"/>
-
-
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-## 🛠  Technologies and tools
+  
+  
+## 🛠  Technologies and Tools
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ff" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
@@ -23,11 +20,17 @@ I'm **Nanang Setyawan**
   <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?logo=visual-studio-code&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
-   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
-    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?logo=postgresql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?logo=postgresql&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />&nbsp;
+
+## Statistic
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 
