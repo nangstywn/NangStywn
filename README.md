@@ -1,7 +1,8 @@
 # Hello World! 👋
 
 
-Hi. I'm **Nanang Setyawan** I'm currently focusing on becoming a **backend web developer**. I really like to learn new things, especially those related to technology and programming.
+Hi. I'm **Nanang Setyawan** I'm currently focusing on becoming a **backend web developer**. I really like to learn new things, especially those related to technology and programming.<br>
+
 
 <!-- ![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-user-contribution.svg) -->
 <a href="#"> <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg"/>
@@ -32,5 +33,9 @@ Hi. I'm **Nanang Setyawan** I'm currently focusing on becoming a **backend web d
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+ Find me on : <br>
+  
+<a href="https://www.linkedin.com/in/nanang-setyawan-bbb32b1ba"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
+<a href="https://github.com/NangStywn"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></a>
 
 
