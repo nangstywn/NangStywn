@@ -1,7 +1,7 @@
 # Hello :wave:
 
 - :raising_hand_man: Nanang Setyawan
-- :house_with_garden: Yogyakarta <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ID%402x.png" height="15" />
+- :house_with_garden: Yogyakarta <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ID%402x.png" height="10" />
 - :desktop_computer:	Backend Web Developer
 - :movie_camera: One Piece :womans_hat:
 - :heart: : :movie_camera: :computer: :video_game: :8ball: :swimming_man: 	:running_man: :weight_lifting_man: :muscle:
@@ -40,8 +40,8 @@
  Find me on : <br>
   
 
-<a href="https://facebook.com/nng96"><img src="https://img.shields.io/badge/-1877F2?logo=facebook&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></a>
-  <a href="https://instagram.com/nanang_stywn"><img src="https://img.shields.io/badge/-E4405F?logo=instagram&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></a>
-  <a href="https://www.linkedin.com/in/nanang-setyawan-bbb32b1ba"><img src="https://img.shields.io/badge/-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
+<a href="https://facebook.com/nng96"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="Facebook logo" title="Facebook" height="40" /></a>
+<a href="https://instagram.com/nanang_stywn"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram logo" title="Instagram" height="40" /></a>
+  <a href="https://www.linkedin.com/in/nanang-setyawan-bbb32b1ba"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn logo" title="LinkedIn" height="40" /></a>
 
 
