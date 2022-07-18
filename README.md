@@ -1,14 +1,18 @@
-# Hello World! 👋
+# Hello :wave:
+
+- :raising_hand_man: Nanang Setyawan
+- :house_with_garden: Yogyakarta <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ID%402x.png" height="15" />
+- :desktop_computer:	Backend Web developer
+- :movie_camera: One Piece :womans_hat:
+- Hobby : :movie_camera: :computer: :video_game: :8ball: :swimming_man: 	:running_man: :weight_lifting_man: :muscle:
 
 
-Hi. I'm **Nanang Setyawan** I'm currently focusing on becoming a **backend web developer**. I really like to learn new things, especially those related to technology and programming.<br>
 
-
-<!-- ![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-user-contribution.svg) -->
-<a href="#"> <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg"/>
+<!-- ![Snake animation](https://github.com/NangStywn/NangStywn/blob/output/github-user-contribution.svg) 
+<a href="#"> <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg"/>-->
   
   
-## 🛠  Technologies and Tools
+# Technologies and Tools
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ff"  height="25" />&nbsp;
