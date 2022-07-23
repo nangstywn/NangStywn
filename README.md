@@ -3,8 +3,8 @@
 - :raising_hand_man: Nanang Setyawan
 - :house_with_garden: Yogyakarta <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ID%402x.png" height="10" />
 - :desktop_computer:	Backend Web Developer
-- :movie_camera: One Piece :womans_hat:
 - :heart: : :movie_camera: :computer: :video_game: :8ball: :swimming_man: 	:running_man: :weight_lifting_man: :muscle:
+<!-- :movie_camera: One Piece :womans_hat:-->
 
 
 
@@ -14,16 +14,16 @@
   # Technologies and Tools
 
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ff"  height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"  height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"  height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"  height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" />&nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ff"  height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"  height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"  height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"  height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" /></a>&nbsp;
   <!--img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="25" />&nbsp;-->
   <!--img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"  height="25" />&nbsp;>
