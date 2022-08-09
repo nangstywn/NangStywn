@@ -1,4 +1,4 @@
-# Hello :wave:
+# Hello. :wave:
 
 - :raising_hand_man: Nanang Setyawan
 - :house_with_garden: Yogyakarta <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ID%402x.png" height="10" />
