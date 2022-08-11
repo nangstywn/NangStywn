@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"  height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="25" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25" />&nbsp;
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"  height="25" />-->
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"  height="20" />-->
+ 
 
 # Statistic
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NangStywn&show_icons=true&include_all_commits=true&theme=radical&hide_border=true"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NangStywn&layout=compact&theme=radical&hide_border=true" /></a> |
