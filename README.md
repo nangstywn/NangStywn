@@ -20,7 +20,7 @@
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"  height="25" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  height="25" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"  height="25" /></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  height="25" /></a>&nbsp;
+  <!--a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  height="25" /></a-->&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"  height="25" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" /></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" /></a>&nbsp;
