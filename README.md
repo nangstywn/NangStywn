@@ -3,7 +3,7 @@
 - :raising_hand_man: Nanang Setyawan
 - :house_with_garden: Yogyakarta <img src="https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/ID%402x.png" height="10" />
 - :desktop_computer:	Backend Web Developer
-- :heart: : :movie_camera: :computer: :video_game: :8ball: :swimming_man: 	:running_man: :weight_lifting_man: :muscle:
+- :heart: : :movie_camera: :computer: :video_game: :8ball: :swimming_man: 	:running_man: :weight_lifting_man: :muscle:🎧🏁💯
 <!-- :movie_camera: One Piece :womans_hat:-->
 
 
